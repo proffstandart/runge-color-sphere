@@ -17,7 +17,7 @@
 
 ## Установка
 
-1. Откройте [Releases](../../releases) и скачайте `RungeSphere-1.0.6.apk` из последнего выпуска.
+1. Откройте [Releases](../../releases) и скачайте `RungeSphere-1.0.7.apk` из последнего выпуска.
 2. Разрешите установку из неизвестных источников, когда система спросит.
 3. Откройте приложение — оно работает без интернета.
 
@@ -25,11 +25,11 @@
 
 ## Текущая версия
 
-**1.0.6** (24 октября 2026) — APK: `RungeSphere-1.0.6.apk`, 3,76 МБ.
+**1.0.7** (24 октября 2026) — APK: `RungeSphere-1.0.7.apk`, 3,83 МБ.
 
 SHA-256:
 ```
-08002FCBDF0832917F9A3A9C070D8A9CB099719059B06654953D47D3A6695F5C
+A7CD24B9A57BE30E6992ADCF6E9D0ACDC0BE903EDE26B85A56E12F1D72977308
 ```
 
 ## Лицензия
@@ -54,6 +54,6 @@ SHA-256:
 - export ASE / GPL / SVG / CSS / JSON, share palettes as images;
 - interface in Russian, English, German, French, Spanish and Chinese.
 
-**Install:** download `RungeSphere-1.0.6.apk` from [Releases](../../releases), allow installation from unknown sources. Requires Android 7.0+.
+**Install:** download `RungeSphere-1.0.7.apk` from [Releases](../../releases), allow installation from unknown sources. Requires Android 7.0+.
 
 Free for personal and non-commercial use — see [LICENSE](LICENSE). No data collection, works offline.
