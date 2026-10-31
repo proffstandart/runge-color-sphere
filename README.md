@@ -11,13 +11,15 @@
 - **серые ступени** — шаги насыщенности к серой оси через центр сферы;
 - **гармонии по законам шара** — живой контраст (антипод), равносторонний треугольник, меридиан света и тени, аналоговые цвета; для 2–3 цветов — двойной контраст, сплит-комплементарность и баланс треугольника с автокоррекцией;
 - **контраст WCAG** — насколько выбранный цвет читается на белом, тёмном и как фон;
-- **палитра из фото** — пипетка усредняет цвет выделенного кругом участка снимка из галереи;
+- **палитра из фото** — пипетка усредняет цвет выделенного кругом участка снимка из галереи; палитра по фото — до 5 цветов с долями, распознавание цветовой схемы;
+- **инструменты** — подбор пары красок для смешивания под заданный цвет (ΔE2000), ограниченная палитра 3–6 цветов с максимальным покрытием шара, предпросмотр палитры под дневным, тёплым и холодным светом;
+- **градиент по шару** — по тону, светлоте или насыщенности, экспорт CSS/SVG/PNG;
 - **экспорт ASE / GPL / SVG / CSS / JSON** и отправка палитры картинкой;
 - **6 языков**: русский, английский, немецкий, французский, испанский, китайский.
 
 ## Установка
 
-1. Откройте [Releases](../../releases) и скачайте `RungeSphere-1.0.7.apk` из последнего выпуска.
+1. Откройте [Releases](../../releases) и скачайте `RungeSphere-2.1.apk` из последнего выпуска.
 2. Разрешите установку из неизвестных источников, когда система спросит.
 3. Откройте приложение — оно работает без интернета.
 
@@ -25,11 +27,11 @@
 
 ## Текущая версия
 
-**1.0.7** (24 октября 2026) — APK: `RungeSphere-1.0.7.apk`, 3,83 МБ.
+**2.1** (1 ноября 2026) — APK: `RungeSphere-2.1.apk`, 4,03 МБ.
 
 SHA-256:
 ```
-A7CD24B9A57BE30E6992ADCF6E9D0ACDC0BE903EDE26B85A56E12F1D72977308
+2d77e60fc31df2ae5e527fd79c3e5bbf3a0ebfb02511964c4463451eeee78ae8
 ```
 
 ## Лицензия
@@ -50,10 +52,12 @@ A7CD24B9A57BE30E6992ADCF6E9D0ACDC0BE903EDE26B85A56E12F1D72977308
 - sphere cross-sections: equatorial and polar, as in the 1810 engravings;
 - harmony builders: living contrast (antipode), equilateral triad, meridian of light and shadow, saturation steps to the grey axis, analogous colors; double contrast and split complementarity for 2–3 colors with triangle balance correction;
 - WCAG contrast card for the picked color;
-- palette from a photo: the picker averages the color of the ring-marked area;
+- palette from a photo: the picker averages the color of the ring-marked area; build a palette of up to 5 colours with shares and scheme detection;
+- tools: paint-pair mixing to a target colour (ΔE2000), limited palette of 3–6 colours with maximum sphere coverage, palette preview under daylight, warm and cool light;
+- sphere gradient: by hue, lightness or saturation; CSS/SVG/PNG export;
 - export ASE / GPL / SVG / CSS / JSON, share palettes as images;
 - interface in Russian, English, German, French, Spanish and Chinese.
 
-**Install:** download `RungeSphere-1.0.7.apk` from [Releases](../../releases), allow installation from unknown sources. Requires Android 7.0+.
+**Install:** download `RungeSphere-2.1.apk` from [Releases](../../releases), allow installation from unknown sources. Requires Android 7.0+.
 
 Free for personal and non-commercial use — see [LICENSE](LICENSE). No data collection, works offline.
