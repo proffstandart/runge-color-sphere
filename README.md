@@ -17,9 +17,14 @@
 - **экспорт ASE / GPL / SVG / CSS / JSON** и отправка палитры картинкой;
 - **6 языков**: русский, английский, немецкий, французский, испанский, китайский.
 
+![Смешивание красок: пара цветов под заданный оттенок](screenshots/shot3-mixing-1080x1920.png)
+![Ограниченная палитра: 5 цветов с максимальным покрытием шара](screenshots/shot4-limited-1080x1920.png)
+![Палитра под светом: дневной, тёплый и холодный свет](screenshots/shot5-lighting-1080x1920.png)
+![Палитра по фото: 5 цветов с долями и распознавание схемы](screenshots/shot7-photo-1080x1920.png)
+
 ## Установка
 
-1. Откройте [Releases](../../releases) и скачайте `RungeSphere-2.1.apk` из последнего выпуска.
+1. Откройте [Releases](../../releases) и скачайте `RungeSphere-2.1.1.apk` из последнего выпуска.
 2. Разрешите установку из неизвестных источников, когда система спросит.
 3. Откройте приложение — оно работает без интернета.
 
@@ -27,11 +32,11 @@
 
 ## Текущая версия
 
-**2.1** (1 ноября 2026) — APK: `RungeSphere-2.1.apk`, 4,03 МБ.
+**2.1.1** (1 ноября 2026) — APK: `RungeSphere-2.1.1.apk`, 4 028 920 байт (3,84 МБ), versionCode 11.
 
 SHA-256:
 ```
-2d77e60fc31df2ae5e527fd79c3e5bbf3a0ebfb02511964c4463451eeee78ae8
+FF6530F240785298BE539516DD5056D0DA0C3A409CF5F7F10D24168E7B723914
 ```
 
 ## Лицензия
@@ -58,6 +63,6 @@ SHA-256:
 - export ASE / GPL / SVG / CSS / JSON, share palettes as images;
 - interface in Russian, English, German, French, Spanish and Chinese.
 
-**Install:** download `RungeSphere-2.1.apk` from [Releases](../../releases), allow installation from unknown sources. Requires Android 7.0+.
+**Install:** download `RungeSphere-2.1.1.apk` from [Releases](../../releases), allow installation from unknown sources. Requires Android 7.0+.
 
 Free for personal and non-commercial use — see [LICENSE](LICENSE). No data collection, works offline.
