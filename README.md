@@ -55,17 +55,49 @@ D0733A294E4080799970011FBBD63BBA380EF047BE923D54430840427906B7B8
 
 **Philipp Otto Runge's color sphere (1810) on your phone: color harmonies, palettes and color picking from photos.**
 
-- interactive 3D color wheel (sphere) with the 12 equatorial hues;
-- sphere cross-sections: equatorial and polar, as in the 1810 engravings;
-- harmony builders: living contrast (antipode), equilateral triad, meridian of light and shadow, saturation steps to the grey axis, analogous colors; double contrast and split complementarity for 2–3 colors with triangle balance correction;
-- WCAG contrast card for the picked color;
-- palette from a photo: the picker averages the color of the ring-marked area; build a palette of up to 5 colours with shares and scheme detection;
-- tools: paint-pair mixing to a target colour (ΔE2000), limited palette of 3–6 colours with maximum sphere coverage, palette preview under daylight, warm and cool light;
-- custom proportions for pairs and triads: presets (70/30, 60/30/10), share sliders summing to 100, "by chroma" suggestion and an "equal shares — Runge check" hint; shares are included in JSON, CSS export and the palette image;
-- sphere gradient: by hue, lightness or saturation; CSS/SVG/PNG export;
-- export ASE / GPL / SVG / CSS / JSON, share palettes as images;
-- interface in Russian, English, German, French, Spanish and Chinese.
+![Screenshot: interactive color sphere](screenshots/shot1-sphere-1080x1920.png)
 
-**Install:** download `RungeSphere-2.2.1.apk` from [Releases](../../releases), allow installation from unknown sources. Requires Android 7.0+.
+### Features
 
-Free for personal and non-commercial use — see [LICENSE](LICENSE). No data collection, works offline.
+- **interactive 3D color wheel** (sphere) with rotation — the first 3D color circle in history; click anywhere to pick a color;
+- **sphere cross-sections** — equatorial and polar, as in the 1810 engravings;
+- **grey steps** — saturation steps towards the grey axis through the centre of the sphere;
+- **harmonies by the laws of the sphere** — living contrast (antipode), equilateral triad, meridian of light and shadow, analogous colors; for 2–3 colors: double contrast, split complementarity and triangle balance analysis with automatic correction;
+- **WCAG contrast card** — how the picked color reads on white, on dark, and as a background;
+- **palette from a photo** — the picker averages the color of the ring-marked area; the photo palette extracts up to 5 dominant colors with shares and scheme detection;
+- **custom working proportions** — for pairs and triads: presets (70/30, 60/30/10), share sliders summing to 100, a "by chroma" suggestion and an "equal shares — Runge check" hint; shares are included in JSON, CSS export and the palette image;
+- **artist tools** — paint-pair mixing to a target colour (ΔE2000) with an accuracy score, limited palette of 3–6 colours with maximum sphere coverage, palette preview under daylight, warm and cool light;
+- **sphere gradients** — by hue, lightness or saturation, exported to CSS/SVG/PNG;
+- **export ASE / GPL / SVG / CSS / JSON** and share palettes as images;
+- **6 languages**: Russian, English, German, French, Spanish, Chinese.
+
+![Paint mixing: two colours for a target shade](screenshots/shot3-mixing-1080x1920.png)
+![Limited palette: 5 colours with maximum sphere coverage](screenshots/shot4-limited-1080x1920.png)
+![Palette under light: daylight, warm and cool](screenshots/shot5-lighting-1080x1920.png)
+![Palette from a photo: 5 colours with shares](screenshots/shot7-photo-1080x1920.png)
+![Custom working proportions: presets and share sliders](screenshots/shot9-proportions-1080x1920.png)
+
+### Install
+
+1. Download `RungeSphere-2.2.1.apk` from [Releases](../../releases).
+2. Allow installation from unknown sources when the system asks.
+3. Open the app — it works offline.
+
+**Requirements:** Android 7.0+ (minSdk 24).
+
+### Current version
+
+**2.2.1** (2 Nov 2026) — APK: `RungeSphere-2.2.1.apk`, 4,031,984 bytes (3.85 MB), versionCode 13.
+
+SHA-256:
+```
+D0733A294E4080799970011FBBD63BBA380EF047BE923D54430840427906B7B8
+```
+
+### License
+
+Free for personal and non-commercial use; commercial use and resale are
+prohibited, modified versions may not be redistributed, and the branding may
+not be passed off as the official version. See [LICENSE](LICENSE).
+
+**The app collects no data and works without the internet.**
