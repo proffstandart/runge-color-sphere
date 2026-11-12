@@ -31,9 +31,10 @@
    пользователей.
 
 3. **Вознаграждение.** 100 (сто) рублей РФ или эквивалент в другой валюте
-   по курсу на дату платежа. Оплата — переводом по реквизитам Автора,
-   указанным ниже, либо по счёту для юридических лиц. Лицензия считается
-   предоставленной с момента поступления оплаты.
+   по курсу на дату платежа. Порядок: Пользователь заполняет и направляет
+   подписанное согласие, Автор отвечает реквизитами для оплаты (для
+   юридических лиц — выставляет счёт). Лицензия считается предоставленной
+   с момента поступления оплаты.
 
 4. **Что входит.** Право использования Приложения в коммерческих целях
    и все будущие обновления Приложения в рамках той же лицензии.
@@ -55,7 +56,8 @@
 
 **Пользователь:** ______________ / [ФИО] /
 
-**Реквизиты для оплаты:** [вписать: номер карты / счёт самозанятого / ИП]
+*Реквизиты для оплаты Автор высылает отдельным письмом после получения
+подписанного согласия.*
 
 ---
 
@@ -83,9 +85,10 @@
    agreement stating the number of users is required.
 
 3. **Fee.** 100 (one hundred) Russian rubles, or the equivalent in
-   another currency at the exchange rate on the payment date. Payment is
-   made by transfer to the Author's details below, or by invoice for
-   legal entities. The license is deemed granted upon receipt of payment.
+   another currency at the exchange rate on the payment date. Procedure:
+   the User fills in and sends the signed agreement; the Author replies
+   with payment details (or issues an invoice for legal entities). The
+   license is deemed granted upon receipt of payment.
 
 4. **Included.** The right to use the App in commercial work and all
    future updates of the App under the same license.
@@ -105,7 +108,8 @@
 
 **User:** ______________ / [name] /
 
-**Payment details:** [card number / account]
+*The Author sends payment details in a separate e-mail after receiving
+the signed agreement.*
 
 ---
 
@@ -120,8 +124,11 @@
   выручки и отчётность — коммерческая лицензия на ПО под неё попадает.
 - **Валюта:** 100 ₽ — ориентир; для иностранцев сумма округляется
   до эквивалента по курсу ЦБ на день платежа.
-- **Хранение:** подписанные экземпляры — в папку `licenses\` с именем
-  вида `2026-11-12_ivanov.pdf`. Ориентир для команды: 100 ₽ × пользователи.
+- **Порядок сделки:** клиент заполняет и присылает подписанное
+  согласие → ты проверяешь и подписываешь свой экземпляр → отправляешь
+  реквизиты (или счёт для юрлица) → после оплаты лицензия действует.
+  Подписанные экземпляры — в папку `licenses\` с именем вида
+  `2026-11-12_ivanov.pdf`. Ориентир для команды: 100 ₽ × пользователи.
 - **Не менять** пункты 5–6 без необходимости: они дублируют LICENSE
   репозитория, расхождение текстов — плохой знак для внимательного
   читателя.
