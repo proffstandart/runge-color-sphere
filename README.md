@@ -43,9 +43,11 @@ D0733A294E4080799970011FBBD63BBA380EF047BE923D54430840427906B7B8
 
 ## Лицензия
 
-Бесплатно для личного и некоммерческого использования. Коммерческое использование
-и перепродажа запрещены, изменённые версии распространять нельзя, оформление нельзя
-выдавать за официальную версию. Подробности — в [LICENSE](LICENSE).
+Бесплатно для личного и некоммерческого использования: учёба, хобби, домашние
+и подарочные работы. Для использования в предпринимательской деятельности (работа
+с заказчиками, корпоративное применение, включение в платные продукты) требуется
+коммерческая лицензия — пишите на proffstandart@rambler.ru. Перепродажа
+и распространение изменённых версий запрещены. Подробности — в [LICENSE](LICENSE).
 
 **Приложение не собирает данные и работает без интернета.**
 
@@ -96,8 +98,10 @@ D0733A294E4080799970011FBBD63BBA380EF047BE923D54430840427906B7B8
 
 ### License
 
-Free for personal and non-commercial use; commercial use and resale are
-prohibited, modified versions may not be redistributed, and the branding may
-not be passed off as the official version. See [LICENSE](LICENSE).
+Free for personal and non-commercial use: study, hobbies, home and gift
+projects. Use in business activities (client work, corporate use, inclusion
+in paid products) requires a commercial license — write to
+proffstandart@rambler.ru. Resale and redistribution of modified versions
+are prohibited. See [LICENSE](LICENSE).
 
 **The app collects no data and works without the internet.**
